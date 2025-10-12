@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/FronteiraTec/site-semfronteiras/static/css/main.d3c26065.css",
+    "main.js": "/FronteiraTec/site-semfronteiras/static/js/main.7734b53c.js",
+    "static/js/453.6248eca2.chunk.js": "/FronteiraTec/site-semfronteiras/static/js/453.6248eca2.chunk.js",
+    "static/media/linhas.png": "/FronteiraTec/site-semfronteiras/static/media/linhas.b15bd22ccec021e63cf0.png",
+    "static/media/right.png": "/FronteiraTec/site-semfronteiras/static/media/right.be3ac89847f169b43940.png",
+    "static/media/left.png": "/FronteiraTec/site-semfronteiras/static/media/left.190dc747a436643d23cd.png",
+    "static/media/reverse.png": "/FronteiraTec/site-semfronteiras/static/media/reverse.5540b347feed7a7d6c4c.png",
+    "static/media/central.png": "/FronteiraTec/site-semfronteiras/static/media/central.a1652a75062e2a5153cc.png",
+    "static/media/brasiljunior.png": "/FronteiraTec/site-semfronteiras/static/media/brasiljunior.13530619778b694fcb3f.png",
+    "static/media/aboutquestion.png": "/FronteiraTec/site-semfronteiras/static/media/aboutquestion.b80104f5c4f899d3205a.png",
+    "static/media/uffs.png": "/FronteiraTec/site-semfronteiras/static/media/uffs.8cbd9df8db6c22b05852.png",
+    "static/media/image.png": "/FronteiraTec/site-semfronteiras/static/media/image.2210d2c8c699cbe54bdb.png",
+    "static/media/empreende.png": "/FronteiraTec/site-semfronteiras/static/media/empreende.29ba4c7685949ace0cbd.png",
+    "static/media/fejesc.png": "/FronteiraTec/site-semfronteiras/static/media/fejesc.cb8b9331f748b1fbbf56.png",
+    "static/media/logo.svg": "/FronteiraTec/site-semfronteiras/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/FronteiraTec/site-semfronteiras/index.html",
+    "main.d3c26065.css.map": "/FronteiraTec/site-semfronteiras/static/css/main.d3c26065.css.map",
+    "main.7734b53c.js.map": "/FronteiraTec/site-semfronteiras/static/js/main.7734b53c.js.map",
+    "453.6248eca2.chunk.js.map": "/FronteiraTec/site-semfronteiras/static/js/453.6248eca2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3c26065.css",
+    "static/js/main.7734b53c.js"
+  ]
+}
