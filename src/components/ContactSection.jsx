@@ -4,6 +4,7 @@ import { FaWhatsapp, FaLinkedin } from "react-icons/fa6";
 import { FaInstagram } from "react-icons/fa";
 import { IoLogoFacebook } from "react-icons/io5";
 import { MdOutlineMail, MdPhone, MdLocationOn } from "react-icons/md";
+import logoFronteiraTec from "./../assets/logo-fronteira-tec-semfundo.png";
 
 function ContactSection() {
   // Separar redes sociais de contatos
@@ -130,11 +131,20 @@ function ContactSection() {
                   ❤️
                 </span>
                 <span>por</span>
-                <img 
-                  src="/logo fronteira tec-semfundo.png" 
-                  alt="Fronteira Tec" 
-                  className="h-8 sm:h-10 w-auto opacity-80 hover:opacity-100 transition-opacity"
-                />
+                <a 
+                  href="https://www.instagram.com/fronteira_tec/" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="inline-block"
+                >
+                  <img 
+                    src={logoFronteiraTec} 
+                    alt="Fronteira Tec" 
+                    width="120" 
+                    height="40" 
+                    className="h-8 sm:h-10 w-auto opacity-80 hover:opacity-100 transition-opacity cursor-pointer"
+                  />
+                </a>
               </div>
               <p className="text-[10px] sm:text-xs text-white/50 italic text-center md:text-left">
                 "Transformando ideias em soluções digitais"

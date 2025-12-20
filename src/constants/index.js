@@ -76,8 +76,8 @@ export const contactLinks = [
   },
   {
     icon: FaWhatsapp,
-    title: "(49) 98873-5692",
-    link : "https://wa.me/5549988735692"
+    title: " (49) 9 99411627",
+    link : "https://wa.me/5549999411627"
   },
   {
     icon: FaInstagram,

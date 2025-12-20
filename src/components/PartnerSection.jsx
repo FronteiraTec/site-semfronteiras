@@ -3,6 +3,8 @@ import uffs from "./../assets/uffs.png";
 import empreende from "./../assets/empreende.png";
 import fejesc from "./../assets/fejesc.png";
 import brasiljunior from "./../assets/brasiljunior.png";
+import nupo from "./../assets/NUPO.jpg";
+import inne from "./../assets/INNE.png";
 
 function PartnerSection() {
   return (
@@ -26,24 +28,43 @@ function PartnerSection() {
           <img
             src={fejesc}
             alt="fejesc"
+            width="150"
+            height="102"
             className="h-[60px] sm:h-[70px] md:h-[85px] lg:h-[102px] w-auto object-contain transition-all hover:scale-105"
           />
           <img
             src={empreende}
             alt="empreende"
+            width="300"
+            height="214"
             className="h-[100px] sm:h-[120px] md:h-[160px] lg:h-[200px] xl:h-[214px] w-auto object-contain transition-all hover:scale-105"
           />
           <img
             src={brasiljunior}
             alt="brasiljunior"
-            className="h-[100px] sm:h-[120px] md:h-[160px] lg:h-[200px] xl:h-[214px] w-auto object-contain transition-all hover:scale-105 sm:col-span-2 lg:col-span-1"
+            width="300"
+            height="214"
+            className="h-[100px] sm:h-[120px] md:h-[160px] lg:h-[200px] xl:h-[214px] w-auto object-contain transition-all hover:scale-105"
           />
-        </div>
-
-        <div className="flex justify-center mt-8 sm:mt-10 md:mt-16">
+          <img
+            src={nupo}
+            alt="nupo"
+            width="200"
+            height="140"
+            className="h-[80px] sm:h-[90px] md:h-[110px] lg:h-[140px] w-auto object-contain transition-all hover:scale-105"
+          />
+          <img
+            src={inne}
+            alt="inne"
+            width="300"
+            height="214"
+            className="h-[100px] sm:h-[120px] md:h-[160px] lg:h-[200px] xl:h-[214px] w-auto object-contain transition-all hover:scale-105"
+          />
           <img
             src={uffs}
             alt="uffs"
+            width="200"
+            height="132"
             className="h-[70px] sm:h-[80px] md:h-[100px] lg:h-[132px] w-auto object-contain transition-all hover:scale-105"
           />
         </div>
